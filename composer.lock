@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "0896019dfecd9fb7703572e0708068bb",
+    "content-hash": "290ce68f32852097522486b6d34b20b1",
     "packages": [
         {
             "name": "doctrine/inflector",
@@ -124,57 +124,6 @@
                 "webdriver"
             ],
             "time": "2017-04-28T14:54:49+00:00"
-        },
-        {
-            "name": "illuminate/console",
-            "version": "v5.4.27",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/illuminate/console.git",
-                "reference": "bdc5c6f53cb474e2aeec46b6a9999fcedfb62a4e"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://files.phpcomposer.com/files/illuminate/console/bdc5c6f53cb474e2aeec46b6a9999fcedfb62a4e.zip",
-                "reference": "bdc5c6f53cb474e2aeec46b6a9999fcedfb62a4e",
-                "shasum": ""
-            },
-            "require": {
-                "illuminate/contracts": "5.4.*",
-                "illuminate/support": "5.4.*",
-                "nesbot/carbon": "~1.20",
-                "php": ">=5.6.4",
-                "symfony/console": "~3.2"
-            },
-            "suggest": {
-                "guzzlehttp/guzzle": "Required to use the ping methods on schedules (~6.0).",
-                "mtdowling/cron-expression": "Required to use scheduling component (~1.0).",
-                "symfony/process": "Required to use scheduling component (~3.2)."
-            },
-            "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "5.4-dev"
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "Illuminate\\Console\\": ""
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Taylor Otwell",
-                    "email": "taylor@laravel.com"
-                }
-            ],
-            "description": "The Illuminate Console package.",
-            "homepage": "https://laravel.com",
-            "time": "2017-06-10T13:11:18+00:00"
         },
         {
             "name": "illuminate/contracts",
