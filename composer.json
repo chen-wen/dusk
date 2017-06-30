@@ -1,0 +1,20 @@
+{
+    "name": "wayne/duck",
+    "description": "a test project like laravel duck!",
+    "require": {
+        "facebook/webdriver": "^1.4",
+        "nesbot/carbon": "^1.22",
+        "illuminate/console": "^5.4",
+        "illuminate/support": "^5.4",
+        "symfony/console": "^3.3",
+        "symfony/process": "^3.3",
+        "phpunit/phpunit": "^6.2",
+        "mockery/mockery": "^0.9.9"
+    },
+    "authors": [
+        {
+            "name": "陈文",
+            "email": "master@chenwen.name"
+        }
+    ]
+}
