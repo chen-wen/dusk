@@ -2,7 +2,8 @@
 基于 laravel dusk 的浏览器测试工具
 
 [官方文档](https://laravel.com/docs/master/dusk)
-[中文文档](https://docs.golaravel.com/docs/5.4/dusk/）
+
+[中文文档](https://docs.golaravel.com/docs/5.4/dusk/)
 
 ### 说明
 
