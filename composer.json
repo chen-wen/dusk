@@ -1,5 +1,5 @@
 {
-    "name": "wayne/duck",
+    "name": "wayne/dusk",
     "description": "a test project like laravel duck!",
     "require": {
         "facebook/webdriver": "^1.4",
